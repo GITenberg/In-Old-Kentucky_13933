@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '5293'
     url: http://www.gutenberg.org/2009/agents/5293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13933#In-Old-Kentucky
 gutenberg_issued: '2004-11-03'
 gutenberg_type: Text
 identifiers:
